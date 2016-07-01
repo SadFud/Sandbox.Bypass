@@ -1,4 +1,5 @@
 ;Sandbox detect and bypass By SadFud. Special thanks to @Blau72 for correcting me an error.
+;Autoit version 3.3.14.2
 #include <MsgBoxConstants.au3>
 Local $aPos = MouseGetPos()
 Sleep(10000)
